@@ -1,0 +1,28 @@
+.NavBar {
+    margin-left: -25px;
+    margin-right: -8px;
+    background-color: rgb(94, 94, 220);
+    text-align: center;
+    font-size:35px;
+    word-spacing: 250px;
+    color: white
+}
+
+.MidLogo {
+    position: relative;
+    top: 70px;
+   height: 150px;
+}
+
+a {
+    position: relative;
+    bottom: 55px;
+    text-decoration: none;
+    color: white;
+}
+
+.tb {
+    position: relative;
+  
+   height: 500px;
+}
